@@ -14,7 +14,6 @@
 
 package com.google.errorprone.refaster.testdata;
 
-import static java.util.Collections.emptyList;
 
 import java.util.ArrayList;
 import java.util.Collections;

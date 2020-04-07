@@ -30,7 +30,6 @@ import com.google.errorprone.matchers.Matcher;
 import com.sun.source.tree.ExpressionTree;
 import com.sun.source.tree.MethodInvocationTree;
 import com.sun.source.tree.Tree;
-import java.time.Period;
 
 /**
  * Bans calls to {@code Duration.from(temporalAmount)} where {@code temporalAmount} is a {@link

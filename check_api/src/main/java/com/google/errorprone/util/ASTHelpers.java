@@ -1296,7 +1296,6 @@ public class ASTHelpers {
         .collect(toImmutableSet());
   }
 
-
   /**
    * Returns the values of the given symbol's {@code javax.annotation.Generated} or {@code
    * javax.annotation.processing.Generated} annotation, if present.

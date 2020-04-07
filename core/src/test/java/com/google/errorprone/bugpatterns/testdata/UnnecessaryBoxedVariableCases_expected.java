@@ -16,11 +16,9 @@
 
 package com.google.errorprone.bugpatterns.testdata;
 
-import static com.google.common.base.Preconditions.checkNotNull;
 
 import java.util.List;
 import java.util.stream.Stream;
-import javax.annotation.Nullable;
 
 /** @author awturner@google.com (Andy Turner) */
 class UnnecessaryBoxedVariableCases {

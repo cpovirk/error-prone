@@ -16,7 +16,6 @@
 
 package java.util;
 
-import com.google.common.collect.Maps;
 
 import java.util.AbstractMap.SimpleImmutableEntry;
 

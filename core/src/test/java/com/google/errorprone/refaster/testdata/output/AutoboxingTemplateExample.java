@@ -15,7 +15,6 @@
 package com.google.errorprone.refaster.testdata;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 /**
  * Test data for {@code AutoboxingTemplate}.

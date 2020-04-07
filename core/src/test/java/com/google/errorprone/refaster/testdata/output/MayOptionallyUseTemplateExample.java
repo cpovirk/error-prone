@@ -15,7 +15,6 @@
  */
 package com.google.errorprone.refaster.testdata;
 
-import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 
 /**

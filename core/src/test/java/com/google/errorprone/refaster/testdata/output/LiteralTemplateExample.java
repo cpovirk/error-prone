@@ -16,7 +16,6 @@
 
 package com.google.errorprone.refaster.testdata;
 
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
 /**

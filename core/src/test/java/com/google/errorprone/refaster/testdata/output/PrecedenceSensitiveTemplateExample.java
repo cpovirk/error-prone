@@ -14,7 +14,6 @@
 
 package com.google.errorprone.refaster.testdata;
 
-import java.util.Objects;
 
 /**
  * Test data for {@code PrecedenceSensitiveTemplate}.

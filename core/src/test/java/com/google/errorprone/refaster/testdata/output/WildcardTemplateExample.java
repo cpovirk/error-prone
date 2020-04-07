@@ -16,7 +16,6 @@ package com.google.errorprone.refaster.testdata;
 
 import com.google.common.collect.ImmutableList;
 
-import java.util.Collections;
 import java.util.List;
 
 /**

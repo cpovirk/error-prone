@@ -17,7 +17,6 @@
 package com.google.errorprone.refaster.testdata;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class LambdaImplicitTypeExample {
   public void example() {
